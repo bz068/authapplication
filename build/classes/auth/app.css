@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 02-Mar-2021, 09:06:13
+    Author     : User
+*/
+
+.ttt{
+    -fx-text-fill: white;
+}
+
+.main{
+     -fx-background-color: #a1c4e6;
+
+}
+
+.textbox{
+    -fx-background-color: #97b9db;
+    
+   -fx-border-radius: 10 ;
+  -fx-background-radius: 10 ;
+     -fx-text-fill: whitesmoke;
+
+
+}
+
+.button{
+  -fx-background-color: #3ec752;
+  -fx-text-fill: white;
+  -fx-focus-traversable: false;
+  -fx-cursor: hand;
+}
